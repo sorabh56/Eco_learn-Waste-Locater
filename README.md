@@ -1,4 +1,4 @@
-EcoLearn 
+                       EcoLearn 
 - Sustainable Learning Platform
 Overview
 EcoLearn is a smart and sustainable learning platform designed for promoting eco-friendly practices in education. The platform integrates AI-driven insights and data analysis to help educational institutions reduce resource waste, improve efficiency, and support green initiatives.
@@ -26,6 +26,7 @@ python app.py
 Access the Platform:
 Open your browser and go to http://localhost:5000
 
+
 Folder Structure
 /backend
     ├── app.py
@@ -42,12 +43,15 @@ Folder Structure
     ├── index.html
     ├── dashboard.html
     └── about.html
+
+    
 Technologies Used
 Python (Flask) — Backend development
 HTML, CSS, JavaScript — Frontend design
 MongoDB — Database management
 AI/ML Models — Data analysis and insights
 Future Improvements
+
 Implement advanced prediction models for better insights.
 Develop a mobile-friendly UI for improved accessibility.
 Add multi-language support for wider user reach.
@@ -55,5 +59,5 @@ Contributing
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
 Contact
-For any questions or feedback, please reach out to Piyush Kumar Dey at [sorabhsinghrajput4@gmail.com].
+For any questions or feedback, please reach out to Sorabh Kumar at [sorabhsinghrajput4@gmail.com].
 
